@@ -23,16 +23,6 @@
             <ul class="menu">
                 <li><a href="index.jsp">Home</a></li>
                 <li><a href="AboutUs.jsp">About us</a></li>
-                <div class="dropdown">
-                    <li class="drop" style="color: white;">Categories</li>
-                          <i class="fa fa-caret-down"></i>                
-                        <div class="dropdown-content">
-                          <a href="Vegetables.jsp">Vegetables</a>
-                          <a href="Fruits.jsp">Fruits</a>
-                          <a href="beverages.jsp">Beverages</a>
-                           <a href="Bakery.jsp">Bakery</a>
-                        </div>
-                      </div>
                 <li><a href="promotions.jsp">Promotions</a></li>
                 <li><a href="BillPayments.jsp">Bill payments</a></li>
                 <li><a href="ContactUs.jsp">Contact us</a></li>
@@ -97,7 +87,7 @@
 </div>
     <hr>
 <div class="row">
-Copyright © 2023 - All rights reserved 
+Copyright Â© 2023 - All rights reserved 
 </div>
 </div>
 </footer>
