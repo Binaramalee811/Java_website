@@ -25,7 +25,7 @@
      
         
     
-        <iframe width="1460" height="345" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas"src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.340028508802!2d79.86355620827446!3d6.849781219261886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25b3314682fe7%3A0x46ba430178c164a9!2sGreen%20Organics%20Premium%20Mart!5e0!3m2!1sen!2sus!4v1703935759823!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>      
+        <iframe width="640" height="345" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas"src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.340028508802!2d79.86355620827446!3d6.849781219261886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25b3314682fe7%3A0x46ba430178c164a9!2sGreen%20Organics%20Premium%20Mart!5e0!3m2!1sen!2sus!4v1703935759823!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>      
        
       </div><br>
       <a href="#" class="view-all-stores">View All Stores</a><br><br>

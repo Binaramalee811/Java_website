@@ -13,8 +13,9 @@
            
         } else {
             if (userEmail != null && !userEmail.isEmpty()) {
-        EmailUtil.sendEmail(userEmail, "Green Supermarket - Order Confirmation",
-            "Hi, "+ userName+ "!, Your order has been successfully completed.\n\nThank you for shopping with us!");
+        //System.out.println("Sending email to: " + userEmail); // More debugging
+        EmailUtil.sendEmail(userEmail, "Green Supermarket - Order Cancellation",
+            "Hi, "+ userName+ "!, Your order has been cancelled.\n\nThank you for shopping with us!");
     } else {
         //System.out.println("No email provided"); // Check for absence of email
     }
@@ -33,16 +34,16 @@
         }
 
         h2 {
-            color: #4CAF50;
+            color: red;
         }
 
         p {
             font-size: 18px;
-            color: #333;
+            color: red;
         }
 
         .button {
-            background-color: #4CAF50; /* Green */
+            background-color: red; /* Green */
             color: white;
             padding: 15px 30px;
             border: none;
@@ -61,8 +62,8 @@
 </head>
 <body>
 
-    <h2>Order Completed Successfully!</h2>
-    <p>Your purchase has been successful, and your order is now complete.</p>
+    <h2>Order Cancelled!</h2>
+    <p>Your purchase has been unsuccessful, and your order is now cancelled.</p>
 
     <a href="LoggedIn.jsp" class="button">Go to Home Page</a>
 
